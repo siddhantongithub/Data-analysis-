@@ -25,7 +25,7 @@ Dashboard Intraction <a href="https://github.com/siddhantongithub/Data-analysis-
 5. Sort Categories by Total Revenue
 6. Enhance Visuals with Formatting and Interactivity
 
-##Dashboard
+## Dashboard
 ![E-Commerce sales ](https://github.com/user-attachments/assets/240997c9-c90b-4da4-8c4f-ea7e2f5ec22b)
 
 
